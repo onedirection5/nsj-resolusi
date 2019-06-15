@@ -1,0 +1,6 @@
+RENCANA KONTEN NSJ
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
